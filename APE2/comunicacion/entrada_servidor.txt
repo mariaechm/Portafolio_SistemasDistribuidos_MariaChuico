@@ -1,0 +1,4 @@
+d0936dea|Hola mundo
+f3852ab8|Sistemas Distribuidos
+2a2c4d9a|Universidad Nacional de Loja
+de6bf232|cliente servidor con archivos
